@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formation Dropshipping</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9fafc;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(90deg, #00c4cc, #006d77);
+            color: white;
+            text-align: center;
+            padding: 1.5rem 0;
+            font-size: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 25px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #006d77;
+        }
+
+        p {
+            text-align: justify;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin: 15px 0;
+        }
+
+        ul {
+            padding-left: 20px;
+            margin-top: 10px;
+        }
+
+        ul li {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+
+        .cta {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .cta a {
+            text-decoration: none;
+            background: linear-gradient(90deg, #006d77, #00c4cc);
+            color: white;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .cta a:hover {
+            background: linear-gradient(90deg, #00c4cc, #006d77);
+            transform: scale(1.05);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .highlight {
+            color: #006d77;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Transformez votre avenir avec le Dropshipping</h1>
+    </header>
+
+    <div class="container">
+        <h1>Formation : Lancer et réussir votre business en Dropshipping</h1>
+        <p><span class="highlight">Envie de liberté financière ?</span> Découvrez comment créer une boutique en ligne rentable grâce à notre méthode éprouvée. Pas besoin d'expérience, cette formation vous accompagne à chaque étape pour atteindre vos objectifs.</p>
+
+        <h2>Ce que vous allez apprendre :</h2>
+        <ul>
+            <li>Comprendre les bases du dropshipping et ses avantages.</li>
+            <li>Créer une boutique en ligne professionnelle avec Shopify.</li>
+            <li>Identifier des produits gagnants et travailler avec des fournisseurs fiables.</li>
+            <li>Mettre en place des stratégies marketing performantes (Facebook Ads, Google Ads).</li>
+            <li>Gérer efficacement les commandes et offrir un service client irréprochable.</li>
+        </ul>
+
+        <h2>Pourquoi choisir cette formation ?</h2>
+        <ul>
+            <li>Conçue pour les débutants et accessible à tous.</li>
+            <li>Apprenez avec des exemples concrets et des conseils d'experts.</li>
+            <li>Optimisez vos ventes et évitez les erreurs fréquentes.</li>
+            <li>Bénéficiez d'un accompagnement personnalisé pour réussir rapidement.</li>
+        </ul>
+
+        <div class="cta">
+            <a href="#">Je commence ma réussite maintenant !</a>
+        </div>
+    </div>
+</body>
+</html>
